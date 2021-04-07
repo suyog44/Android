@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T13:40:56.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.7" etag="CFC1oFzleVGrR2uH-6BL" type="github"><diagram id="nlIt7VbSNEftMe5d4Z-f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-05T13:51:42.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EC8Yv2vsTAI3TF_DwWv8" version="14.5.7" type="github">
+  <diagram id="nlIt7VbSNEftMe5d4Z-f" name="Page-1">
+    <mxGraphModel dx="782" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="550" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;DATA POINTS ON SIERRA MONITOR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="120" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-3" value="ON_OFF&lt;br&gt;&lt;br&gt;Mod_Per&lt;br&gt;&lt;br&gt;SYS_State&lt;br&gt;&lt;br&gt;Err_State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-5">
+          <mxGeometry y="70" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-4" value="Group ID 1&lt;br&gt;PORT A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-5">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="120" width="90" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-19" value="" style="group;container=1;" vertex="1" connectable="0" parent="cR7fX_v1S2JMLRwcJQty-6">
+          <mxGeometry x="-40" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-19">
+          <mxGeometry y="70" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-8" value="Group ID 1&lt;br&gt;PORT B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-19">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-23" value="ON_OFF&lt;br&gt;&lt;br&gt;Mod_Per&lt;br&gt;&lt;br&gt;SYS_State&lt;br&gt;&lt;br&gt;Err_State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-19">
+          <mxGeometry y="70" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Total No of Nodes 60 , Total Data 240 Points&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="80" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-20" value="" style="group;container=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="120" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-20">
+          <mxGeometry y="70" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-22" value="Group ID 1&lt;br&gt;PORT C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-20">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cR7fX_v1S2JMLRwcJQty-24" value="ON_OFF&lt;br&gt;&lt;br&gt;Mod_Per&lt;br&gt;&lt;br&gt;SYS_State&lt;br&gt;&lt;br&gt;Err_State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cR7fX_v1S2JMLRwcJQty-20">
+          <mxGeometry y="70" width="60" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
